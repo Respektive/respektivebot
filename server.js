@@ -26,7 +26,7 @@ function getRandomInt(min, max){
 
 var client = new tmi.client(options);
 
-var emotes = ["VoHiYo", "ResidentSleeper", "OpieOP", "KKona", "4Head", "Kappa", "FeelsGoodMan", "FeelsBadMan", "FeelsAmazingMan", "FeelsBirthdayMan", "PogChamp", ":)", ":D", ":/", "Kreygasm", "LUL", "WutFace", "DansGame", "HeyGuys"];
+var emotes = ["VoHiYo", "ResidentSleeper", "OpieOP", "KKona", "4Head", "Kappa", "FeelsGoodMan", "FeelsBadMan", "FeelsAmazingMan", "FeelsBirthdayMan", "PogChamp", ":)", ":D", ":/", "Kreygasm", "LUL", "WutFace", "DansGame", "HeyGuys", "SeemsGood", "TriHard", "NotLikeThis"];
 
 
 

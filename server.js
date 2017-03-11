@@ -22,7 +22,7 @@ var options = {
 
 var client = new tmi.client(options);
 
-var emotes = ["VoHiYo", "ResidentSleeper", "OpieOP", "KKona", "4Head", "Kappa", "FeelsGoodMan", "FeelsBadMan", "FeelsAmazingMan", "FeelsBirthdayMan", "PogChamp", ":)", ":D", ":/", "Kreygasm", "LUL", "WutFace", "DansGame", "HeyGuys", "SeemsGood", "TriHard", "NotLikeThis"];
+var emotes = ["VoHiYo", "ResidentSleeper", "OpieOP", "KKona", "4Head", "Kappa", "FeelsGoodMan", "FeelsBadMan", "FeelsAmazingMan", "FeelsBirthdayMan", "PogChamp", ":)", ":D", ":/", "sadScoots", "Kreygasm", "LUL", "WutFace", "DansGame", "HeyGuys", " ", "stickW", "SeemsGood", "TriHard", "NotLikeThis"];
 
 
 
